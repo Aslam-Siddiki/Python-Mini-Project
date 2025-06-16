@@ -5,7 +5,7 @@ This repository contains two beginner-friendly Python mini projects designed to 
 
 <b> 🔢 1. Guess the Number Game </b>
 <br>
-<b> A simple number guessing game where:</b>
+A simple number guessing game where:
 <br>
 - The computer generates a random number within a certain range.
 <br>
@@ -16,7 +16,7 @@ This repository contains two beginner-friendly Python mini projects designed to 
 
 <b> 🔐 2. Random Password Generator </b>
 <br>
-A secure password generator where:
+-A secure password generator where:
 <br>
 - The user chooses the desired password length.
 <br>
