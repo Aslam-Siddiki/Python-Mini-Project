@@ -5,12 +5,12 @@ This repository contains two beginner-friendly Python mini projects designed to 
 <b> 🔢 1. Guess the Number Game </b>
 <br>
 A simple number guessing game where:
-- The computer generates a random number within a certain range.
-- The user keeps guessing until the correct number is found.
-- Hints are provided: "Too High", "Too Low".
+<br>- The computer generates a random number within a certain range.
+<br>- The user keeps guessing until the correct number is found.
+<br>- Hints are provided: "Too High", "Too Low".
 <br>
 <b> 🔐 2. Random Password Generator </b>
 <br>
--A secure password generator where:
-- The user chooses the desired password length.
-- The program creates a password using letters, digits, and symbols.
+<br>-A secure password generator where:
+<br>- The user chooses the desired password length.
+<br>- The program creates a password using letters, digits, and symbols.
