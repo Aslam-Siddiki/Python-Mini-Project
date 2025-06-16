@@ -10,7 +10,6 @@ A simple number guessing game where:
 <br>- Hints are provided: "Too High", "Too Low".
 <br>
 <b> 🔐 2. Random Password Generator </b>
-<br>
 <br>-A secure password generator where:
 <br>- The user chooses the desired password length.
 <br>- The program creates a password using letters, digits, and symbols.
